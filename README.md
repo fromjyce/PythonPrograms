@@ -7,7 +7,7 @@ The repository is organized into separate folders for each topic. Each folder co
 ## Running the Programs
 These programs have been tested on Linux
 
-To c a run gram, navigate to the folder containing the program and run the following command:
+To run a python program, navigate to the folder containing the program and run the following command:
 ```
 python programname.py
 ```
