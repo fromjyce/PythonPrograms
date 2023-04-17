@@ -2,7 +2,7 @@
 This repository contains the Python programs that I have submitted for assignments and records during my second semester at college. The programs cover a range of topics, including basic data types, control structures, arrays, functions, and file handling.
 
 ## Structure of the Repository
-The repository is organized into separate folders for each topic. Each folder contains multiple C programs related to the topic. Additionally, there is a separate folder for lab assignments and records.
+The repository is organized into separate folders for each topic. Each folder contains multiple Python programs related to the topic. Additionally, there is a separate folder for lab assignments and records.
 
 ## Running the Programs
 These programs have been tested on Linux
