@@ -3,7 +3,7 @@ This repository contains the Python programs that I have submitted for assignmen
 
 ## Structure of the Repository
 * The repository is organized into two folders: one for lab assignments and one for records. Each folder contains several Python programs related to the topics that I learned in my second semester.
-* Additionally, I have created another folder that contains some Python programs that I solved for problems that I solved online.
+* Additionally, I have created another folder that contains some `Python programs` that I solved for problems that I solved online.
 
 ## Running the Programs
 These programs have been tested on Linux
