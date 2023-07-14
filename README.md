@@ -1,4 +1,4 @@
-# Python Programs for SECOND Semester
+# Python Programs
 This repository contains the Python programs that I have submitted for assignments and records during my second semester at college. The programs cover a range of topics, including basic data types, control structures, arrays, functions, and file handling.
 
 ## Structure of the Repository
