@@ -5,6 +5,7 @@ This repository contains the Python programs that I have submitted for assignmen
 * The repository is organized into two folders: one for lab assignments and one for records. Each folder contains several Python programs related to the topics that I learned in my second semester.
 * Additionally, I have created another folder that contains some `Python programs` that I solved for problems that I solved online.
 * I also added a `Project Euler` file with my solutions to the Project Euler problems.
+* I have added [`WEScripts`](https://github.com/fromjyce/PythonPrograms/tree/main/WEScripts), which contains a collection of small programs that I personally developed during my training period at TalentSprint, showcasing my growth as a programmer.
 
 ## Running the Programs
 These programs have been tested on Linux
