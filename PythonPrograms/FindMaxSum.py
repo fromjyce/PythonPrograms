@@ -1,4 +1,4 @@
-#Give an integer list, return the maxikum sublist sum. the list may conatin  both positive and negative integers and is unsorted
+#Give an integer list, return the maximum sublist sum. the list may contain both positive and negative integers and is unsorted
 def max_sublist_sum(lst):
     if not lst:
         return 0
