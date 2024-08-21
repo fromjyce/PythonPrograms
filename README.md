@@ -1,19 +1,17 @@
 # Python Programs
 This repository houses the Python programs that I have developed and submitted for assignments and records during my second semester at college. These programs encompass various topics, such as fundamental data types, control structures, lists, functions, and file manipulation. Moreover, I have included Python files that demonstrate my progress and learning throughout my programming journey.
 
-## Structure of the Repository
-* The repository is organized into two folders: one for lab assignments and one for records. Each folder contains several Python programs related to the topics that I learned in my second semester.
-* Additionally, I have created another folder that contains some `Python programs` that I solved for problems that I solved online.
-* I also added a `Project Euler` file with my solutions to the Project Euler problems.
-* I have added `WEScripts`, which contains a collection of small programs that I personally developed during my training period at TalentSprint, showcasing my growth as a programmer.
-
 ## Running the Programs
-These programs have been tested on Linux
+These programs have been tested on both Linux and Windows operating systems.
 
-To run a python program, navigate to the folder containing the program and run the following command:
-```
+To execute a Python program, navigate to the directory containing the script and run the following command:
+
+```bash
 python programname.py
 ```
+
+The programs have been successfully tested using Visual Studio Code on Windows 11, but you are welcome to use any IDE of your choice.
+
 ## Contact
 If you come across any mistakes in the programs or have any suggestions for improvement, please feel free to contact me <jaya2004kra@gmail.com>. I appreciate any feedback that can help me improve my coding skills
 
